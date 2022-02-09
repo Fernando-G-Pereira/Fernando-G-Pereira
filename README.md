@@ -4,7 +4,6 @@
 
 - 💻 Estudante de HTML, CSS e JavaScript;
 - 🤙 Sempre disposto a colaborar com novos projetos;
-- 📫 Contate no e-mail fernadogpereira14@gmail.com
 
 <div align="center">
   <a href="https://github.com/Fernando-G-Pereira">
